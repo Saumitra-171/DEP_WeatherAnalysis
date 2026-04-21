@@ -1,2 +1,2 @@
 # DEP_WeatherAnalysis
-API bade weather analysis project
+API based weather analysis project
